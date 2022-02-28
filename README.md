@@ -8,4 +8,4 @@
 
 This site can be found at: [https://Evgeny-Vovk.github.io/Unit1-03-HTML](https://Evgeny-Vovk.github.io/Unit1-03-HTML)
 
-The cities website can be found at: [https://Evgeny-Vovk.github.io/Unit1-03-HTML](https://Evgeny-Vovk.github.io/Unit1-03-HTML/cities.html)
+The cities site can be found at: [https://Evgeny-Vovk.github.io/Unit1-03-HTML](https://Evgeny-Vovk.github.io/Unit1-03-HTML/cities.html)
