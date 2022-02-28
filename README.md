@@ -6,6 +6,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Evgeny-Vovk/ICS2O-Unit1-03-HTML)](https://repl.it/github/Evgeny-Vovk/ICS2O-Unit1-03-HTML)
 
-This site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-03-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-03-HTML/)
+This site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-03-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-03-HTML)
 
 The cities site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-03-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-03-HTML/cities.html)
